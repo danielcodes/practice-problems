@@ -1,0 +1,6 @@
+
+Questions from mycodeschool youtube channel
+
+1 Binary search, finding first and last occurrences
+
+
