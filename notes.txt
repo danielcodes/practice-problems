@@ -3,6 +3,7 @@ Questions from mycodeschool youtube channel
 
 1 Binary search, finding first and last occurrences
 2 Count occurrences, count the occurrences of an element in a sorted array with binary search 
+3 Sorted array rotated, how many time is a sorted array rotated
 
 
 
