@@ -5,6 +5,7 @@ Questions from mycodeschool youtube channel
 2 Count occurrences, count the occurrences of an element in a sorted array with binary search 
 3 Sorted array rotated, how many time is a sorted array rotated
 4 Find element in sorted circular list
+5 Print 2D array in spiral order
 
 
 
