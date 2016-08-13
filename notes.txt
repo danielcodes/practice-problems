@@ -6,6 +6,7 @@ Questions from mycodeschool youtube channel
 3 Sorted array rotated, how many time is a sorted array rotated
 4 Find element in sorted circular list
 5 Print 2D array in spiral order
+6 Reversing a linked list
 
 
 
