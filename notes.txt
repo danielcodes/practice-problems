@@ -8,6 +8,7 @@ Questions from mycodeschool youtube channel
 5 Print 2D array in spiral order
 6 Reversing a linked list
 7 Print elements in a linked list (forward and reverse) with recursion
+8 Reversing a linked list with recursion
 
 
 
