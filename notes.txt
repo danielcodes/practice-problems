@@ -9,6 +9,7 @@ Questions from mycodeschool youtube channel
 6 Reversing a linked list
 7 Print elements in a linked list (forward and reverse) with recursion
 8 Reversing a linked list with recursion
+9 Reverse string or linked list using stack
 
 
 
