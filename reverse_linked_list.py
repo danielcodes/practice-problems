@@ -40,7 +40,37 @@ def reverseRec(head):
 
     return rest
 
-  
+
+# reversing using stack
+# this is overly complicated, I hate it
+def reverseStack(head):
+
+    s = []
+
+    # first push all addresses into the stack
+    # this brings
+    temp = head
+    while temp != None:
+        s.append(temp)
+        temp = temp.next
+
+    # abusing variables
+    temp = s[-1]
+    head = temp
+    s.pop()
+
+    while s:
+        temp.next = s[-1]
+        s.pop()
+        temp = temp.next
+
+    temp.next = None
+
+    return head
+
+
+# ###############################################################
+
 a = Node(30, None)
 a = insert(a, 40)
 a = insert(a, 50)
@@ -49,7 +79,7 @@ a = insert(a, 60)
 print 'normal'
 printList(a)
 
-a = reverseRec(a)
+a = reverseStack(a)
 
 print 'reversed'
 printList(a)
