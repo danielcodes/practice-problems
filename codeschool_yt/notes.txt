@@ -12,13 +12,7 @@ Questions from mycodeschool youtube channel
 9 Reverse string or linked list using stack
 10 Balanced parentheses using stack
 
-
-
 Notes
 - if data is sorted, think binary search
-
-
-
-
 
 
