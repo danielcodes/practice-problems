@@ -5,8 +5,7 @@ Doing problems from the fast track table
 
 [x] 6.1, Dutch national flag problem 
 [x] 6.6, Buy and sell stock once
-[] 8.1, Merge two sorted lists
-[] 9.1, Stack with max API
+[x] 8.1, Merge two sorted lists
 [] 10.1, Test if a binary tree is height balanced
 [] 11.1, Merge sorted files
 [] 12.1, Search sorted array for first occurrence of k
@@ -17,4 +16,5 @@ Doing problems from the fast track table
 [] 17.1, Count the number of score combinations
 [] 18.4, The 3-sum problem 
 [] 19.1, Search a maze
+
 
