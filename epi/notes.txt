@@ -6,9 +6,8 @@ Doing problems from the fast track table
 [x] 6.1, Dutch national flag problem 
 [x] 6.6, Buy and sell stock once
 [x] 8.1, Merge two sorted lists
-[] 10.1, Test if a binary tree is height balanced
-[] 11.1, Merge sorted files
-[] 12.1, Search sorted array for first occurrence of k
+[x] 10.1, Test if a binary tree is height balanced
+[x] 12.1, Search sorted array for first occurrence of k
 [] 13.2, Is an anonymous letter constructible?
 [] 14.1, Computer the intersection of two sorted arrays 
 [] 15.1, Test if a binary tree satisfies the BST property
