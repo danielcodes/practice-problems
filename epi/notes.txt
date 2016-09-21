@@ -8,7 +8,7 @@ Doing problems from the fast track table
 [x] 8.1, Merge two sorted lists
 [x] 10.1, Test if a binary tree is height balanced
 [x] 12.1, Search sorted array for first occurrence of k
-[] 13.2, Is an anonymous letter constructible?
+[x] 13.2, Is an anonymous letter constructible?
 [] 14.1, Computer the intersection of two sorted arrays 
 [] 15.1, Test if a binary tree satisfies the BST property
 [] 16.1, The towers of hanoi problem
