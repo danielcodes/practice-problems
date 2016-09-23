@@ -40,7 +40,7 @@ Set 2
 [] 12.8, Find the kth largest element
 [] 13.6, Find the nearest repeated entries in an array
 [] 13.3, Implement an ISBN cache
-[] 14.2, Merge two sorted arrays
+[x] 14.2, Merge two sorted arrays
 [] 15.2, Find the first key greater than a given value in a BST
 [] 15.3, Find the k largest elements in a BST
 [] 16.2, Generate all nonattacking placements of n-Queens
