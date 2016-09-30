@@ -50,3 +50,8 @@ Set 2
 [] 21.15, Design an online advertising system
 
 
+Set 3
+[x] 17.3, Count the number of ways to traverse a 2D array
+
+
+
