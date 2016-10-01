@@ -1,0 +1,46 @@
+
+Pramp problems
+
+1 Largest smaller BST key [x]
+- find largest element smaller than x
+
+2 Matrix spiral print [x]
+- print a 2D matri in a spiral
+
+3 Time planner [x]
+- given a set of times, find an intersection of x time
+ 
+4 Merging 2 packages [x]
+- find two values in the array that sum up to x
+
+5 Busiest time in the mall []
+- find time where number of people is at its peak
+
+6 Array of array products [x]
+- multiply all values except the one at that index, apply to all
+
+7 Flatten a dictionary [x]
+- return one dict, with appended keys like key1.key2.key3 = value
+
+8 Drone flight planner [x]
+- find the fuel needed for a flight
+
+9 Island count [x]
+- find clusters of ones
+
+10 Find the duplicates [x]
+- given 2 arrays, find the values in common
+
+11 Smallest substring of all characters
+- smallest substr that contains all chars in an array
+
+12 BST successor search 
+- the largest value before x
+
+13 Sentence reverse 
+- reverse an array of words
+
+14 Shifted array search [x]
+- find a value in a shifted array that is sorted
+
+
