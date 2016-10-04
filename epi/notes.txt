@@ -27,7 +27,7 @@ Set 1
 Set 2
 [] 5.7, Compute x^y
 [x] 6.11, Sample offline data
-[] 6.17, Compute the spiral ordering of a 2D array
+[x] 6.17, Compute the spiral ordering of a 2D array
 [] 7.2, Base conversion
 [] 7.4, Replace and remove
 [] 8.2, Reverse a single sublist
