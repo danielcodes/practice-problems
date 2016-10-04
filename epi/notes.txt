@@ -18,7 +18,7 @@ Set 1
 [x] 15.1, Test if a binary tree satisfies the BST property
 [x] 16.1, The towers of hanoi problem
 [x] 17.1, Count the number of score combinations
-[] 18.4, The 3-sum problem 
+[x] 18.4, The 3-sum problem 
 [] 19.1, Search a maze
 [] 20.3, Implement synchronization for two interleaving threads
 [] 21.13, Implement Mileage Run
