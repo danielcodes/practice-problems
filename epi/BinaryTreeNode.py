@@ -9,3 +9,17 @@ class Node:
         self.right = None
 
 
+def printInOrder(root):
+
+    nodes = []
+    printInOrderUtil(root, nodes)
+    return nodes
+
+def printInOrderUtil(root, nodes):
+
+    if root:
+        printInOrderUtil(root.left, nodes)
+        nodes.append(root.value)
+        printInOrderUtil(root.right, nodes)
+
+
