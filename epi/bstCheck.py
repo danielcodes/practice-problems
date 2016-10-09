@@ -10,12 +10,7 @@
 
 # valid, but if 8 gets a right child of 15, then boom
 
-class Node:
-
-    def __init__(self, value):
-        self.value = value
-        self.left = None
-        self.right = None
+from BinaryTreeNode import Node
 
 # the utility
 def isBSTUtil(node, lowerB, upperB):
