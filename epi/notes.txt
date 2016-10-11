@@ -37,7 +37,7 @@ Set 2
 [] 11.4, Compute the k closest stars
 [] 12.4, Compute the integer square root
 [] 12.8, Find the kth largest element
-[] 13.6, Find the nearest repeated entries in an array
+[x] 13.6, Find the nearest repeated entries in an array
 [] 13.3, Implement an ISBN cache
 [x] 14.2, Merge two sorted arrays
 [] 15.2, Find the first key greater than a given value in a BST
