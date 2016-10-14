@@ -43,7 +43,7 @@ Set 2
 [x] 15.2, Find the first key greater than a given value in a BST
 [x] 15.3, Find the k largest elements in a BST
 [x] 16.2, Generate all nonattacking placements of n-Queens
-[] 17.2, Compute the Levenshtein distance
+[x] 17.2, Compute the Levenshtein distance
 [] 18.6, The gasup problem
 [] 19.7, Transform one string to another
 [] 20.6, The readers-writers problem
