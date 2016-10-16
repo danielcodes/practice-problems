@@ -52,7 +52,7 @@ Set 2
 
 Set 3
 [x] 5.8, Reverse digits
-[] 6.2, Increment an arbitrary-precision integer
+[x] 6.2, Increment an arbitrary-precision integer
 [] 6.16, The Sudoku checker problem
 [] 7.5, Test palindromicity
 [] 7.6, Reverse all the words in a sentence

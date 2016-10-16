@@ -3,6 +3,8 @@
 # ie. 456 -> 654, -1235 -> -5321
 
 # approach is to use modulo to slowly get the last digit
+# O(n) time, n is the length of the number
+# O(1) space
 
 def reverseDigits(number):
 

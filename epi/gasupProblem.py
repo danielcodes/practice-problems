@@ -8,6 +8,9 @@
 # we want the city that start with the minimum amount of gas
 # if we start at this city, as we traverse the road, it will never dip below this minimum
 
+# O(n) time, one pass
+# O(1) space, no additional storage
+
 def gasupProblem(gas, miles):
 
     # miles per gallon
