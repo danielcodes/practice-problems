@@ -44,7 +44,7 @@ Set 2
 [x] 15.3, Find the k largest elements in a BST
 [x] 16.2, Generate all nonattacking placements of n-Queens
 [x] 17.2, Compute the Levenshtein distance
-[] 18.6, The gasup problem
+[x] 18.6, The gasup problem
 [] 19.7, Transform one string to another
 [] 20.6, The readers-writers problem
 [] 21.15, Design an online advertising system
