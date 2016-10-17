@@ -16,3 +16,21 @@ def printList(head):
     l = ' -> '.join(map(str, l))
     print l
  
+
+def findLength(head):
+
+    l = 0
+    while head != None:
+        l += 1
+        head = head.next
+    return l
+
+
+def advanceByK(head, k):
+
+    while k:
+        head = head.next
+        k -= 1
+    return head
+
+

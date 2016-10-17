@@ -56,7 +56,7 @@ Set 3
 [x] 6.16, The Sudoku checker problem
 [x] 7.5, Test palindromicity
 [x] 7.6, Reverse all the words in a sentence
-[] 8.4, Test for overlapping lists - lists are cycle-free
+[x] 8.4, Test for overlapping lists - lists are cycle-free
 [] 8.7, Remove the kth last element from a list
 [] 9.2, Evaluate RPN expressions
 [] 9.8, Implement a circular queue
