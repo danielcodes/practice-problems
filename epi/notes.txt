@@ -58,7 +58,7 @@ Set 3
 [x] 7.6, Reverse all the words in a sentence
 [x] 8.4, Test for overlapping lists - lists are cycle-free
 [x] 8.7, Remove the kth last element from a list
-[] 9.2, Evaluate RPN expressions
+[x] 9.2, Evaluate RPN expressions
 [] 9.8, Implement a circular queue
 [] 10.2, Test if a binary tree is symmetric
 [] 10.12, Reconstruct a binary tree from traversal data
