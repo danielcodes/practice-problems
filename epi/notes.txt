@@ -60,7 +60,7 @@ Set 3
 [x] 8.7, Remove the kth last element from a list
 [x] 9.2, Evaluate RPN expressions
 [x] 9.8, Implement a circular queue
-[] 10.2, Test if a binary tree is symmetric
+[x] 10.2, Test if a binary tree is symmetric
 [] 10.12, Reconstruct a binary tree from traversal data
 [] 11.3, Sort an almost-sorted array
 [] 12.3, Search a cyclically sorted array
