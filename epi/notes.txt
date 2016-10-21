@@ -63,7 +63,7 @@ Set 3
 [x] 10.2, Test if a binary tree is symmetric
 [] 10.12, Reconstruct a binary tree from traversal data
 [x] 11.3, Sort an almost-sorted array
-[] 12.3, Search a cyclically sorted array
+[x] 12.3, Search a cyclically sorted array
 [] 12.9, Find the missing IP address
 [] 13.1, Test for palindromic permutations
 [] 13.6, Find the nearest repeated entries in an array
