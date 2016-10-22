@@ -66,8 +66,7 @@ Set 3
 [x] 12.3, Search a cyclically sorted array
 [] 12.9, Find the missing IP address
 [x] 13.1, Test for palindromic permutations
-[] 13.6, Find the nearest repeated entries in an array
-[] 14.4, Render a calendar
+[x] 14.4, Render a calendar
 [] 15.4, Compute the LCA in a BST
 [] 15.8, The most visited pages problem
 [] 16.3, Generate permutations
