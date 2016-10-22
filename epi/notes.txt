@@ -67,7 +67,7 @@ Set 3
 [] 12.9, Find the missing IP address
 [x] 13.1, Test for palindromic permutations
 [x] 14.4, Render a calendar
-[] 15.4, Compute the LCA in a BST
+[x] 15.4, Compute the LCA in a BST
 [] 15.8, The most visited pages problem
 [] 16.3, Generate permutations
 [x] 17.3, Count the number of ways to traverse a 2D array
