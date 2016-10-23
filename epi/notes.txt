@@ -72,7 +72,7 @@ Set 3
 [x] 16.3, Generate permutations
 [x] 17.3, Count the number of ways to traverse a 2D array
 [x] 17.6, The knapsack problem
-[] 18.5, Find the majority element
+[x] 18.5, Find the majority element
 [] 18.7, Compute the maximum water trapped by a pair of vertical lines
 [] 19.2, Paint a Boolean matrix
 [] 20.8, Implement a Timer class
