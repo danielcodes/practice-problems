@@ -73,7 +73,7 @@ Set 3
 [x] 17.3, Count the number of ways to traverse a 2D array
 [x] 17.6, The knapsack problem
 [x] 18.5, Find the majority element
-[] 18.7, Compute the maximum water trapped by a pair of vertical lines
+[x] 18.7, Compute the maximum water trapped by a pair of vertical lines
 [] 19.2, Paint a Boolean matrix
 [] 20.8, Implement a Timer class
 [] 21.16, Design a recommendation system
