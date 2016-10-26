@@ -83,7 +83,7 @@ Set 4
 [] 5.3, Reverse bits
 [] 5.11, Rectangle intersection
 [x] 6.5, Delete duplicates from a sorted array
-[] 6.8, Enumerate all primes to n
+[x] 6.8, Enumerate all primes to n
 [] 7.7, Compute all mnemonics for a phone number
 [] 7.8, The look-and-say problem
 [] 8.10, Implement even-odd merge
