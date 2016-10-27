@@ -85,7 +85,7 @@ Set 4
 [x] 6.5, Delete duplicates from a sorted array
 [x] 6.8, Enumerate all primes to n
 [] 7.7, Compute all mnemonics for a phone number
-[] 7.8, The look-and-say problem
+[x] 7.8, The look-and-say problem
 [] 8.10, Implement even-odd merge
 [] 9.3, Test a string over '{,},(,),[,]' for well-formedness
 [] 9.9, Implement a queue using stacks
