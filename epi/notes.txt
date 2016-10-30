@@ -99,7 +99,7 @@ Set 4
 [] 14.9, Implement a fast sorting algorithm for lists
 [] 15.5, Reconstruct a BST from traversal data
 [] 15.9, Build a minimum height BST from a sorted array
-[] 16.4, Generate the power set
+[x] 16.4, Generate the power set
 [] 16.9, Implement a Sudoku solver
 [] 17.5, Search for a sequence in a 2D array
 [] 17.7, The bedbathandbeyong.com problem
