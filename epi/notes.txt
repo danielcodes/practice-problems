@@ -86,7 +86,7 @@ Set 4
 [x] 6.8, Enumerate all primes to n
 [] 7.7, Compute all mnemonics for a phone number
 [x] 7.8, The look-and-say problem
-[] 8.10, Implement even-odd merge
+[x] 8.10, Implement even-odd merge
 [] 9.3, Test a string over '{,},(,),[,]' for well-formedness
 [] 9.9, Implement a queue using stacks
 [] 10.11, Implement an inorder traversal with O(1) space
