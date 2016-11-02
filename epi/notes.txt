@@ -89,7 +89,7 @@ Set 4
 [x] 8.10, Implement even-odd merge
 [] 9.3, Test a string over '{,},(,),[,]' for well-formedness
 [] 9.9, Implement a queue using stacks
-[] 10.11, Implement an inorder traversal with O(1) space
+[x] 10.11, Implement an inorder traversal with O(1) space
 [] 11.5, Compute the median of online data
 [] 12.5, Compute the real square root
 [] 12.10, Find the duplicate and missing elements
