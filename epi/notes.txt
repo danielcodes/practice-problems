@@ -93,7 +93,7 @@ Set 4
 [] 11.5, Compute the median of online data
 [] 12.5, Compute the real square root
 [] 12.10, Find the duplicate and missing elements
-[] 13.4, Compute the LCA, optimizing for close ancestors
+[x] 13.4, Compute the LCA, optimizing for close ancestors
 [] 13.7, Find the smallest subarray covering all values
 [] 14.6, Compute the union of intervals
 [] 14.9, Implement a fast sorting algorithm for lists
