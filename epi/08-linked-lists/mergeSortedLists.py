@@ -32,22 +32,23 @@ def mergeLists(l1, l2):
     return head.next
 
 
-# 1 3 5
-a = Node(5)
-b = Node(3, a)
-c = Node(1, b)
+if __name__ == '__main__':
+    # 1 3 5
+    a = Node(5)
+    b = Node(3, a)
+    c = Node(1, b)
 
-# 2 4 7 9
-d = Node(9)
-e = Node(7, d)
-f = Node(4, e)
-g = Node(2, f)
+    # 2 4 7 9
+    d = Node(9)
+    e = Node(7, d)
+    f = Node(4, e)
+    g = Node(2, f)
 
-print 'before merging'
-printList(c)
-printList(g)
+    print 'before merging'
+    printList(c)
+    printList(g)
 
-print 'after merging'
-mergeLists(c, g)
+    print 'after merging'
+    mergeLists(c, g)
 
 

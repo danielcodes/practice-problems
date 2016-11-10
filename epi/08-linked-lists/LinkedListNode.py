@@ -37,11 +37,12 @@ def advanceByK(head, k):
 def createDummyList():
 
     # 1 -> 2 -> 3 -> 4 -> 5
-    a = Node(5)
-    b = Node(4, a)
+    # 5 -> 2 -> 3 -> 1 -> 4
+    a = Node(4)
+    b = Node(1, a)
     c = Node(3, b)
     d = Node(2, c)
-    e = Node(1, d)
+    e = Node(5, d)
 
     return e
 

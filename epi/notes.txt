@@ -96,7 +96,7 @@ Set 4
 [x] 13.4, Compute the LCA, optimizing for close ancestors
 [x] 13.7, Find the smallest subarray covering all values
 [] 14.6, Compute the union of intervals
-[] 14.9, Implement a fast sorting algorithm for lists
+[x] 14.9, Implement a fast sorting algorithm for lists
 [] 15.5, Reconstruct a BST from traversal data
 [x] 15.9, Build a minimum height BST from a sorted array
 [x] 16.4, Generate the power set
