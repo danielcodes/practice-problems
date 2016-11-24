@@ -103,7 +103,7 @@ Set 4
 [x] 16.9, Implement a Sudoku solver
 [x] 17.5, Search for a sequence in a 2D array
 [x] 17.7, The bedbathandbeyong.com problem
-[] 18.8, Compute the largest rectangle under the skyline
+[x] 18.8, Compute the largest rectangle under the skyline
 [] 19.3, Compute enclosed regions
 [] 20.9, Test the Collatz conjecture in parallel
 [] 21.1, Design a spell checker
