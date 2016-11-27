@@ -126,3 +126,34 @@ Set 4
 |        | 21.1 | Design a spell checker |
 
 
+Set 5
+=====
+
+| Solved |  #  | Problem |
+|:------:|:---:|---------|
+|        | 5.9 | Check if a decimal integer is a palindrome |
+|        | 6.3 | Multipyl two arbitrary-precision integers |
+|        | 6.9 | Permute the elements of an array |
+|		 | 6.14 | Compute a random subset |
+|        | 7.9 | Convert from Roman to decimal |
+|        | 7.11 | Write a string sinusoidally |
+|        | 8.11 | Test whether a singly linked list is palindromic |
+|        | 9.4 | Normalize pathnames |
+|        | 10.13 | Reconstruct a binary tree from a preorder traversal with markers |
+|        | 10.16 | Compute the right sibling tree |
+|        | 11.7 | Implement a stack API using a heap |
+|        | 12.6 | Search in a 2D sorted array |
+|        | 12.7 | Find the min and max simultaneously |
+|        | 13.10 | Find the length of a longest contained interval |
+|        | 14.7 | Partitioning and sorting an array with many repeated entries |
+|        | 15.7 | Enumerate numbers of the form a+b x root(2) |
+|        | 15.10 | Insertion and deletion in a BST |
+|        | 16.6 | Generate strings of matched parens |
+|        | 16.10 | Compute a Gray code |
+|        | 17.12 | Find the longest nondecreasing subsequence |
+|        | 25.34 | Implement Huffman coding |
+|        | 19.9 | Compute a shortest path with fewest edges |
+|        | 21.9 | Design TeraSort and PetaSort |
+|        | 21.2 | Design a solution to the stemming problem |
+
+
