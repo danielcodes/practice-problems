@@ -12,7 +12,7 @@ Primitive Types
 |        | 6   | Compute x / y |
 |        | 7   | Compute x ^ y |
 | [✓]    | 8   | Reverse digits |
-|        | 9   | Check if a decimal integer is a palindrome |
+| [✓]    | 9   | Check if a decimal integer is a palindrome |
 |        | 10  | Generate uniform random numbers |
 |        | 11  | Rectangle intersection |
 
