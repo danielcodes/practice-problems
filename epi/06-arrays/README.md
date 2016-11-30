@@ -6,7 +6,7 @@ Arrays
 |:------:|:---:|---------|
 | [✓]    | 1   | The Dutch national flag problem |
 | [✓]    | 2   | Increment an arbitrary-precision integer |
-|        | 3   | Multiply two arbitrary-precision integers |
+| [✓]    | 3   | Multiply two arbitrary-precision integers |
 |        | 4   | Advancing through an array |
 |	     | 5   | Delete duplicates from a sorted array |
 |        | 6   | Buy and sell a stock once |

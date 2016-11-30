@@ -132,7 +132,7 @@ Set 5
 | Solved |  #  | Problem |
 |:------:|:---:|---------|
 | [✓]    | 5.9 | Check if a decimal integer is a palindrome |
-|        | 6.3 | Multipyl two arbitrary-precision integers |
+| [✓]    | 6.3 | Multipyl two arbitrary-precision integers |
 |        | 6.9 | Permute the elements of an array |
 |		 | 6.14 | Compute a random subset |
 |        | 7.9 | Convert from Roman to decimal |
